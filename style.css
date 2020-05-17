@@ -1,0 +1,91 @@
+a {
+    text-decoration: none;
+    color:cornflowerblue;
+}
+a:hover {
+    font-size: 82px;
+}
+ol li{
+    color:darkgoldenrod;
+    
+}
+ul li {
+   color:blueviolet; 
+}
+ul li:hover {
+    font-size: 32px;
+    color:yellowgreen;
+}
+B:hover {
+    font-size: 32px;
+    color:lightpink        
+}
+
+B {
+  color:fuchsia;
+}
+img {
+    height: 150px;
+}
+img:hover {
+    height: 250px;
+}
+.gryffindor {
+    color:red;
+    margin-left: 225px;
+    font: message-box;
+}
+.gryffindor img {
+    border-color: red;
+    border-style: solid;
+}
+
+.ravenclaw {
+    color:blue;
+    margin-left: 225px;
+    font: message-box;
+}
+.ravenclaw img{
+    border-color: blue;
+    border-style: solid;
+}
+.hufflepuff {
+    color: yellow;
+    margin-left: 225px;
+    font: message-box;
+}
+.slytherin {
+    color:green;
+    margin-left: 225px;
+    font: message-box;
+}
+.unknown {
+    color:purple;
+    margin-left: 225px;
+    font: message-box;
+}   
+.list {
+    margin-left: 225px;
+    font: message-box;
+}
+.bold {
+    margin-left: 135px;
+    font: message-box;
+    background-color: lightskyblue;
+    font-size: 50px;
+}
+.index {
+    margin-left: 135px;
+   font: message-box;
+   background-color: lightskyblue;
+   font-size: 50px;
+   
+}
+.st {
+    margin-left: 825px;
+    font: message-box;
+} 
+.gato {
+    background-color: lightskyblue;
+
+}
